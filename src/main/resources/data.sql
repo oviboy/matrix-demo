@@ -1,0 +1,1 @@
+replace into users(id, first_name, last_name, password, role, username) values (1, 'Admin', 'Admin', '$2y$12$CRhB0oXFHLJ.1RUk3auMMOvzBcALgFHS3eHmmDyM/qeY/.4lVuEFS', 'ROLE_ADMIN', 'admin@admin.org');
